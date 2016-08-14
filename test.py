@@ -17,3 +17,6 @@ class rational:
 
 
 go_crazy()
+
+def function do_nothing():
+	return

@@ -10,6 +10,10 @@ def function go_crazy():
 	return 0
 
 class rational:
+        print 'hallo'
+	return 0
+
+class rational:
     def __init__(self, a, b):
         self._a = a
         self._b = b

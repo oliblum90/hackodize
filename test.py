@@ -5,6 +5,8 @@ def function go_crazy():
         r1 = rational(1,2)
         r2 = rational(2,3)
         print r1.add(r2)
+        r1.add(r2)
+        print 'hallo'
 	return 0
 
 class rational:
